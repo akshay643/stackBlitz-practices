@@ -1,0 +1,14 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+div{
+  background-color: red;
+  font-size: 100px;
+}
+
+.input {
+  height: 60px;
+  width: 40px;
+}
